@@ -1,6 +1,7 @@
 name = "auto-reaction-bot"
 main = "api/worker.js"
 compatibility_date = "2024-06-02"
+pages_build_output_dir = "public"
 
 [vars]
 BOT_TOKEN = "7256695013:AAFFObtXBionF0JUsvVgtqiRZ3jEigTOPOo"
